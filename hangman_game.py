@@ -1,9 +1,6 @@
-
 # coding: utf-8
 
-
 import random
-
 from collections import Counter
 
 someWords = 'apple banana mango orange graps pipeapple lychee berry papaya cherry watermelon coconut lemon'
