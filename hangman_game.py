@@ -1,38 +1,14 @@
 
 # coding: utf-8
 
-# In[1]:
-
 
 import random
 
-
-# In[2]:
-
-
 from collections import Counter
 
-
-# In[3]:
-
-
 someWords = 'apple banana mango orange graps pipeapple lychee berry papaya cherry watermelon coconut lemon'
-
-
-# In[4]:
-
-
 someWords = someWords.split(' ')
-
-
-# In[5]:
-
-
 word = random.choice(someWords)
-
-
-# In[12]:
-
 
 if __name__ == '__main__':
     print('Guess the word! HINT: word is a name of fruit')
